@@ -13,7 +13,7 @@ I use it two ways:
 
 ## What's in here
 
-- [`SKILL.md`](SKILL.md) — the skill itself. This is the whole thing.
+- [`grill-me/SKILL.md`](grill-me/SKILL.md) — the skill itself. This is the whole thing.
 
 ## How to use it
 
