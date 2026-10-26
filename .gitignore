@@ -1,0 +1,9 @@
+# Secrets (never commit)
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+
+# OS
+.DS_Store
